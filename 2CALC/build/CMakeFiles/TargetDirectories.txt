@@ -1,0 +1,8 @@
+/home/csehg0312-tester/2CALC/build/CMakeFiles/2CALC.dir
+/home/csehg0312-tester/2CALC/build/CMakeFiles/edit_cache.dir
+/home/csehg0312-tester/2CALC/build/CMakeFiles/rebuild_cache.dir
+/home/csehg0312-tester/2CALC/build/CMakeFiles/list_install_components.dir
+/home/csehg0312-tester/2CALC/build/CMakeFiles/install.dir
+/home/csehg0312-tester/2CALC/build/CMakeFiles/install/local.dir
+/home/csehg0312-tester/2CALC/build/CMakeFiles/install/strip.dir
+/home/csehg0312-tester/2CALC/build/CMakeFiles/2CALC_autogen.dir
