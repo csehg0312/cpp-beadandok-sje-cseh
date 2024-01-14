@@ -1,0 +1,9 @@
+/home/csehg0312-tester/build-chess_version1-Desktop_Qt_6_5_1_GCC_64bit-Debug/CMakeFiles/chess_version1.dir
+/home/csehg0312-tester/build-chess_version1-Desktop_Qt_6_5_1_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/csehg0312-tester/build-chess_version1-Desktop_Qt_6_5_1_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/csehg0312-tester/build-chess_version1-Desktop_Qt_6_5_1_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/csehg0312-tester/build-chess_version1-Desktop_Qt_6_5_1_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/csehg0312-tester/build-chess_version1-Desktop_Qt_6_5_1_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/csehg0312-tester/build-chess_version1-Desktop_Qt_6_5_1_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/csehg0312-tester/build-chess_version1-Desktop_Qt_6_5_1_GCC_64bit-Debug/CMakeFiles/chess_version1_autogen_timestamp_deps.dir
+/home/csehg0312-tester/build-chess_version1-Desktop_Qt_6_5_1_GCC_64bit-Debug/CMakeFiles/chess_version1_autogen.dir

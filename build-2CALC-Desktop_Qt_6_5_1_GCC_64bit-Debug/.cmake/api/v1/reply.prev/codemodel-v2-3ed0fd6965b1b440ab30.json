@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7a4f08cbc1f7e69d6e27.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2CALC",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2CALC::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2CALC-Debug-175c06973f7813d3dacb.json",
+					"name" : "2CALC",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2CALC_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2CALC_autogen-Debug-cfb3145195cb253e9f9d.json",
+					"name" : "2CALC_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2CALC_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2CALC_autogen_timestamp_deps-Debug-a2d653d4aa15bc9e2401.json",
+					"name" : "2CALC_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/csehg0312-tester/build-2CALC-Desktop_Qt_6_5_1_GCC_64bit-Debug",
+		"source" : "/home/csehg0312-tester/2CALC"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

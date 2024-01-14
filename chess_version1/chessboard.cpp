@@ -5,7 +5,7 @@
 #include "QString"
 
 
-#include "./clickablerectangle.h"
+#include "clickablerectangle.h"
 
 
 
@@ -30,7 +30,7 @@ void ChessBoard::show() {
 
 void ChessBoard::addBabuk(){
     const QStringList playerLabels = {
-        "R","H","B","K","Q","B","H","R",
+        "R","H","B","K","K","B","H","R",
         "P","P","P","P","P","P","P","P",
         "","","","","","","","",
         "","","","","","","","",

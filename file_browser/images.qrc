@@ -1,9 +1,0 @@
-<!DOCTYPE RCC>
-<RCC version="1.0">
-    <qresource>
-        <file>/home/csehg0312-tester/file_browser/images/img1.jpg</file>
-        <file>/home/csehg0312-tester/file_browser/images/img2.jpg</file>
-        <file>/home/csehg0312-tester/file_browser/images/img3.jpg</file>
-        <!-- Add entries for all your images -->
-    </qresource>
-</RCC>
